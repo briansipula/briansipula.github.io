@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "DBA | Researcher in Blockchain-Based E-Voting Systems"
   location         : "Lusaka, Zambia"
-  employer         : "Zambia Centre for Accountancy Studies (ZCAS)"
-  uri              : # URL
+  employer         : "ZCAS"
+  uri              : "https://zcas.ac.zm/zcas-professional"
   email            : "bsipula@gmail.com"
 
   # Academic websites
