@@ -23,7 +23,7 @@ Work Experience
   * Responsibilities: Database administration, system analysis and design, IT infrastructure management, Salesforce administration, access control, and reliability improvements to organisational operations.
 
 * 2024 -- Present: Founder
-  * Hypermind Technologies, Lusaka, Zambia
+  * Hypermind Technologies Limited, Lusaka, Zambia
   * Technology consulting and systems development firm.
 
 * 2021 -- 2024: Salesforce Admin (Consultant)
