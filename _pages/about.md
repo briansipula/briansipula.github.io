@@ -13,7 +13,7 @@ My MSc CS research (ZCAS University, 2024) developed a blockchain-based voting p
 
 I also hold an MBA in Finance (Unicaf University, 2024). Both degrees were completed simultaneously alongside full-time work as a DBA between 2022 and 2024.
 
-I am also Director of Hypermind Technologies, a technology firm based in Lusaka, Zambia.
+I am also a Founder of Hypermind Technologies, a technology firm based in Lusaka, Zambia.
 
 ## Research Focus
 
