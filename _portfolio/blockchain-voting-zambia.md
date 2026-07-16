@@ -10,7 +10,7 @@ While the global literature on blockchain-based e-voting frequently addresses ab
 
 ## Research Problem
 
-Existing blockchain voting literature identifies the voter key-management problem — voters cannot be expected to manage cryptographic keys — but provides no deployed solution. This prototype addresses that gap using a proxy-signing architecture, where a trusted backend signs transactions on behalf of voters without gaining access to their vote choices.
+Existing blockchain voting literature identifies the voter key-management problem, namely that voters cannot be expected to manage cryptographic keys, but provides no deployed solution.
 
 ## Legal Grounding
 
