@@ -6,7 +6,7 @@ collection: portfolio
 
 ## Overview
 
-This project developed a blockchain-based voting prototype as part of MSc CS research at ZCAS University (2024). It is the first known prototype to ground a blockchain voting system in named statutory provisions of a specific national electoral law enforced in executable code.
+While the global literature on blockchain-based e-voting frequently addresses abstract security parameters, it routinely ignores the highly specific, messy administrative realities dictated by national legislation. To the best of my knowledge, the existing literature on decentralised voting does not engage with Zambia's Electoral Process Act No. 35 of 2016, and no prior work has attempted to map such specific national electoral statutes down to the level of statutory regulations into executable smart contract code. This project addresses this gap by presenting a prototype engineered to programmatically enforce seven distinct provisions of the Act, demonstrating the precise architectural bottlenecks that arise when translating democratic law into immutable ledger logic.
 
 ## Research Problem
 
@@ -14,7 +14,7 @@ Existing blockchain voting literature identifies the voter key-management proble
 
 ## Legal Grounding
 
-The prototype maps Zambia's Electoral Process Act No. 35 of 2016 down to SI regulation level. Seven statutory provisions are enforced directly in Solidity smart contracts, including voter eligibility, candidate registration, voting period enforcement, and result tallying.
+The prototype maps Zambia's Electoral Process Act No. 35 of 2016 down to SI regulation level. Seven statutory provisions are enforced directly in Solidity smart contracts, covering voter eligibility, candidate registration, voting period enforcement, and result tallying.
 
 ## Technical Stack
 
@@ -31,4 +31,4 @@ Prototype complete. Two privacy vulnerabilities identified and fixed (July 2026)
 - Database ballot secrecy vulnerability (vote-to-voter join query)
 - Plaintext candidate name emission in Solidity event log
 
-A paper based on this work is currently under review at E-Vote-ID 2026 PhD Colloquium (Track 5).
+A paper based on this work is under review at E-Vote-ID 2026 PhD Colloquium (Track 5).
