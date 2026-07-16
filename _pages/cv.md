@@ -6,59 +6,58 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc Computer Science, ZCAS University, 2024
+* MBA Finance, Unicaf University, 2024
+* BIT (Bachelor of Information Technology), Northrise University, 2016
 
-Work experience
+The MSc and MBA were completed simultaneously alongside full-time work as a Database Administrator between 2022 and 2024.
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021 -- Present: Database Administrator
+  * Zambia Centre for Accountancy Studies (ZCAS), Lusaka, Zambia
+  * Responsibilities: Database administration, system analysis and design, IT infrastructure management, Salesforce administration, access control, and reliability improvements to organisational operations.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024 -- Present: Founder
+  * Hypermind Technologies, Lusaka, Zambia
+  * Technology consulting and systems development firm.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* 2021 -- 2024: Salesforce Admin (Consultant)
+  * Spark and Spur Co. (Remote)
+  * Salesforce administration and database consulting.
+
+* 2016 -- 2020: IT Support
+  * Reload Logistics, Chililabombwe, Zambia
+
+* 2015 -- 2016: Data Capturer / IT Support Technician
+  * Reload Logistics, Ndola, Zambia
+
+Research
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MSc Thesis: "Exploring the Implementation of Blockchain Technology for the Electoral Processes in Zambia"
+  * ZCAS University, 2024
+  * Supervisor: Prof. Christopher Chembe
+  * Developed a blockchain-based voting prototype grounded in Zambia's Electoral Process Act No. 35 of 2016, mapping statutory provisions down to SI regulation level into executable Solidity smart contracts.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Blockchain and Smart Contracts: Solidity, OpenZeppelin, Hardhat, ethers.js
+* Database Administration: PostgreSQL, SQL Server, MySQL
+* Backend Development: Node.js, Express
+* Frontend Development: Next.js, TypeScript
+* Cloud and CRM: Salesforce, Office 365
+* Research: Electoral law analysis, cryptographic voting protocols, smart contract design
+
+Service
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Open to research collaboration on blockchain-based voting systems, cryptographic protocols for elections, and technology policy in African electoral contexts.
