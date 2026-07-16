@@ -1,5 +1,5 @@
 ---
-title: "Blockchain-Based Voting System — Zambian Electoral Law Implementation"
+title: "Blockchain-Based Voting System: Zambian Electoral Law Implementation"
 excerpt: "A prototype grounded in Zambia's Electoral Process Act No. 35 of 2016, enforcing seven statutory provisions in executable Solidity smart contracts."
 collection: portfolio
 ---
