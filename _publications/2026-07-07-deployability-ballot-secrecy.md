@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2026-07-07-deployability-ballot-secrecy
 excerpt: 'This paper examines the tension between deployability and ballot secrecy in blockchain-based voting systems, using Zambia as a case study. It presents a prototype grounded in the Electoral Process Act No. 35 of 2016, enforcing seven statutory provisions in executable Solidity smart contracts.'
 date: 2026-07-07
-venue: 'E-Vote-ID 2026 PhD Colloquium (Track 5)'
+venue: 'E-Vote-ID 2026 PhD Colloquium (Track 5) — Under Review'
 paperurl:
 citation:
 ---
