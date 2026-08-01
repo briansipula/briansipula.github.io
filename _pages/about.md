@@ -33,8 +33,8 @@ A paper based on this work — *Deployability Versus Ballot Secrecy in Blockchai
 
 ## Background
 
-- **Database Administrator**, Zambia Centre for Accountancy Studies (ZCAS) — Lusaka, Zambia (2021–present)
-- **Founder**, Hypermind Technologies — Lusaka, Zambia
+- **Database Administrator**, Zambia Centre for Accountancy Studies (ZCAS), Lusaka, Zambia (2021–present)
+- **Founder**, Hypermind Technologies Limited, Lusaka, Zambia
 - **MSc Computer Science**, ZCAS University (2024)
 - **MBA Finance**, Unicaf University (2024)
 - **BIT**, Northrise University (2016)
