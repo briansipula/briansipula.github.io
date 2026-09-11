@@ -14,6 +14,6 @@ This paper examines the tension between deployability and ballot secrecy in bloc
 
 The prototype is grounded in Zambia's Electoral Process Act No. 35 of 2016, mapping statutory provisions down to SI regulation level into executable Solidity smart contracts. Seven electoral law provisions are enforced directly in code. A proxy-signing architecture addresses the voter key-management problem identified in prior literature.
 
-The paper analyses two critical privacy failures in the current implementation, a database ballot secrecy vulnerability and a plaintext event emission on-chain — and discusses the tradeoffs these represent for deployability in low-resource electoral contexts.
+The paper analyses two critical privacy failures in the current implementation, a database ballot secrecy vulnerability and a plaintext event emission on-chain, and discusses the tradeoffs these represent for deployability in low-resource electoral contexts.
 
 **Status:** Accepted: E-Vote-ID 2026 PhD Colloquium, Track 5 (submitted 7 July 2026; accepted 19 August 2026). Presentation scheduled October 2026, Tallinn. Paper will not be published through the colloquium proceedings. ArXiv preprint planned October/November 2026.
