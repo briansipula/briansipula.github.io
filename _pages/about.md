@@ -27,9 +27,9 @@ Key themes:
 
 ## Current Work
 
-I am currently developing a blockchain-based voting prototype grounded in Zambia's electoral legal framework, built on Solidity 0.8.24, OpenZeppelin v5.x, Hardhat, PostgreSQL 16, Node/Express, and Next.js 14.
+I have developed a blockchain-based voting prototype grounded in Zambia's Electoral Process Act No. 35 of 2016, built on Solidity 0.8.24, OpenZeppelin v5.x, Hardhat, PostgreSQL 16, Node/Express, and Next.js 14. The prototype is deployed to the Ethereum Sepolia testnet, with the smart contract source code independently verified on Etherscan.
 
-A paper based on this work — *Deployability Versus Ballot Secrecy in Blockchain-Based Voting for Low-Resource Democracies: A Zambian Case Study* — is currently under review at the E-Vote-ID 2026 PhD Colloquium (Track 5).
+A paper based on this work — *Deployability Versus Ballot Secrecy in Blockchain-Based Voting for Low-Resource Democracies: A Zambian Case Study* — was accepted to the E-Vote-ID 2026 PhD Colloquium (Track 5) in August 2026. Presentation is scheduled for October 2026 in Tallinn.
 
 ## Background
 
